@@ -1,0 +1,19 @@
+body{
+background-image:url('omfgdogs.gif');	
+color: blue;
+	}
+
+#bottomright{
+position: fixed;
+bottom: 0;
+right: 0;
+}
+	
+a{
+background-color: white;
+font-size: 29px;
+}
+
+a:hover{
+	color:orange;
+	}
